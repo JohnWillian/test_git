@@ -1,5 +1,3 @@
 # Hello World
 
-# Be nice to everyone
-
-# Test branch
+# This is a Horspool Algorithm Example
