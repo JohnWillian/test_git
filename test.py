@@ -19,6 +19,6 @@ def Horspool(P,T):
 	return -1
 
 if __name__ == "__main__":
-	P = "feel"
+	P = "programer"
 	T = "I am a programmer, and I am feeling good."
 	print(Horspool(P,T))
