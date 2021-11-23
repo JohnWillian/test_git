@@ -1,3 +1,3 @@
 # Hello World
 
-# Be nice to everyone
+# This is a Horspool Algorithm Example
