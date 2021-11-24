@@ -35,7 +35,7 @@
 
 - Create a new branch
 
-`git branch -b <branch name>`
+  `git branch -b <branch name>`
 
 
 - Merge the current branch with other one
